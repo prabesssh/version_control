@@ -1,2 +1,6 @@
 this is my lab file
+<<<<<<< HEAD
 this is conflicting line fromm master branch
+=======
+this line is added to feature branch
+>>>>>>> feature-branch
